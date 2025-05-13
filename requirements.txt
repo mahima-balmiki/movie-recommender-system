@@ -1,7 +1,4 @@
-pip
 requests
 gdown
 streamlit
 pandas
-pickle
-os
