@@ -1,14 +1,10 @@
-from tkinter.font import names
-
 import streamlit as st
 import pickle
 import pandas as pd
 import requests
 import gdown
 import os
-#request modules To fetch api
 
-# Downloading similarity matrix
 file_id = '1tDyyZ3d7ZEUDjWv0Iw3Taum4nVOmBfnR'
 output = 'similarity.pkl'
 url = f'https://drive.google.com/uc?id={file_id}'
