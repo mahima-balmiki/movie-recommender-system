@@ -1,7 +1,7 @@
-﻿streamlit
+pip
+requests
+gdown
+streamlit
 pandas
 pickle
-requests
 os
-gdown
-pip
